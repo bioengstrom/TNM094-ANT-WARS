@@ -1,4 +1,4 @@
-# Bachelor's Degree project:  ANT WARZ
+# Bachelor's Degree Project:  ANT WARZ
 
 This is the repository for the [Bachelor's project (TNM094)](https://liu.se/studieinfo/en/kurs/tnm094/vt-2019), MSc in Media Technology and Engineering, at Linköping University.
 
@@ -17,7 +17,7 @@ The project report can be found here: [Project report (in swedish)](https://gith
 The project was implemented by a group of six students:
 
 - Per Blåwiik
-- Isak Engström (me)
+- Isak Engström
 - Marcus Gladh
 - Ester Lindgren
 - Adam Morén
